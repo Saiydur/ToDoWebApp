@@ -1,3 +1,12 @@
-<!-- Make Author Name Saiydur Rahman In Style  -->
+# Author
 
----Saiydur Rahman
+Saiydur Rahman
+
+## Installation
+
+Clone or Download The Files
+
+```bash
+cd foldername
+npm install 
+```
